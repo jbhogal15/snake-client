@@ -20,7 +20,7 @@ const handleUserInput = function(key) {
     connection.write("Move: right");
   }
   if (key === "j") {
-    connection.write("Say: HOLA");
+    connection.write("Say: Jaskiran");
   }
 };
 
